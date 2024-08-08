@@ -1,0 +1,3 @@
+[submodule "WineQualityWorkshop"]
+	path = WineQualityWorkshop
+	url = https://github.com/ddl-wasanthag/WineQualityWorkshop.git
